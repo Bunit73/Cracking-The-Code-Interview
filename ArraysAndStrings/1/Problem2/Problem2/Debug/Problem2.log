@@ -1,0 +1,8 @@
+﻿  Problem2.c
+c:\users\ford2\source\repos\cracking-the-code-interview\arraysandstrings\1\problem2\problem2\problem2.c(70): warning C4013: 'strncpy' undefined; assuming extern returning int
+c:\users\ford2\source\repos\cracking-the-code-interview\arraysandstrings\1\problem2\problem2\problem2.c(73): warning C4047: 'function': 'char' differs in levels of indirection from 'char *'
+c:\users\ford2\source\repos\cracking-the-code-interview\arraysandstrings\1\problem2\problem2\problem2.c(73): warning C4024: 'mergeSort': different types for formal and actual parameter 1
+c:\users\ford2\source\repos\cracking-the-code-interview\arraysandstrings\1\problem2\problem2\problem2.c(90): warning C4029: declared formal parameter list different from definition
+c:\users\ford2\source\repos\cracking-the-code-interview\arraysandstrings\1\problem2\problem2\problem2.c(140): warning C4028: formal parameter 1 different from declaration
+  Problem2.vcxproj -> C:\Users\ford2\Source\Repos\Cracking-The-Code-Interview\ArraysAndStrings\1\Problem2\Debug\Problem2.exe
+  Problem2.vcxproj -> C:\Users\ford2\Source\Repos\Cracking-The-Code-Interview\ArraysAndStrings\1\Problem2\Debug\Problem2.pdb (Full PDB)
